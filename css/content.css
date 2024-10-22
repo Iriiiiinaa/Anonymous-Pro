@@ -116,12 +116,126 @@ body{
 }
 .liner6{
     border: 2px dashed rgb(0, 0, 0);
-    width: 1100px;
-    
+    width: 985px;
+    margin-top: -2px;
+    margin-right: 235px;
+    position: relative;    
 }
 .text6{
     font-size: 25px;
 }
 .text5{
     font-size: 30px;
+}
+.box9{
+    display: flex;
+    justify-content: center;
+    margin-right: 48.5%;
+    margin-top: 2%;
+    gap: 20px;
+}
+.liner7{
+    border: 2px dashed rgb(0, 0, 0);
+    width: 985px;
+    margin-top: -2px;
+    margin-right: 235px;
+    position: relative; 
+}
+.box10{
+    display: flex;
+    justify-content: center;
+    margin-right: 45.5%;
+    margin-top: 2%;
+    gap: 20px;
+}
+.liner8{
+    border: 2px dashed rgb(0, 0, 0);
+    width: 985px;
+    margin-top: -2px;
+    margin-right: 235px;
+    position: relative; 
+}
+.box11{
+    display: flex;
+    justify-content: center;
+    margin-right: 48.5%;
+    margin-top: 2%;
+    gap: 20px;
+}
+.liner9{
+    border: 2px dashed rgb(0, 0, 0);
+    width: 985px;
+    margin-top: -2px;
+    margin-right: 235px;
+    position: relative; 
+}
+.box12{
+    display: flex;
+    justify-content: center;
+    margin-right: 48.5%;
+    margin-top: 2%;
+    gap: 20px;
+}
+.liner10{
+    border: 2px dashed rgb(0, 0, 0);
+    width: 985px;
+    margin-top: -2px;
+    margin-right: 235px;
+    position: relative; 
+}
+.box13{
+    display: flex;
+    justify-content: center;
+    margin-right: 48.5%;
+    margin-top: 2%;
+    gap: 20px;
+}
+.liner11{
+    border: 2px dashed rgb(0, 0, 0);
+    width: 985px;
+    margin-top: -2px;
+    margin-right: 235px;
+    position: relative; 
+}
+.box14{
+    display: flex;
+    justify-content: center;
+    margin-right: 48.5%;
+    margin-top: 2%;
+    gap: 20px;
+}
+.liner12{
+    border: 2px dashed rgb(0, 0, 0);
+    width: 985px;
+    margin-top: -2px;
+    margin-right: 235px;
+    position: relative; 
+}
+.box15{
+    display: flex;
+    justify-content: center;
+    margin-right: 48.5%;
+    margin-top: 2%;
+    gap: 20px;
+}
+.liner13{
+    border: 2px dashed rgb(0, 0, 0);
+    width: 985px;
+    margin-top: -2px;
+    margin-right: 235px;
+    position: relative; 
+}
+.box16{
+    display: flex;
+    justify-content: center;
+    margin-right: 48.5%;
+    margin-top: 2%;
+    gap: 20px;
+}
+.liner14{
+    border: 2px dashed rgb(0, 0, 0);
+    width: 985px;
+    margin-top: -2px;
+    margin-right: 235px;
+    position: relative; 
 }
