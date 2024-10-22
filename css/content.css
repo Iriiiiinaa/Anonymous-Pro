@@ -102,3 +102,26 @@ body{
     margin-right: 105px;
     position: relative;
 }
+.box7{
+    width: 100%;
+    margin-top: 8%;
+}
+
+.box8{
+    display: flex;
+    justify-content: center;
+    margin-right: 25%;
+    margin-top: 4.5%;
+    gap: 20px;
+}
+.liner6{
+    border: 2px dashed rgb(0, 0, 0);
+    width: 1100px;
+    
+}
+.text6{
+    font-size: 25px;
+}
+.text5{
+    font-size: 30px;
+}
