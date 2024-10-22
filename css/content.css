@@ -323,21 +323,28 @@ body{
     font-size: 85px;
 }
 
-
+.red{
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 15%;
+    margin-top: -12%;
+}
 .blackone{
     width: 23%;
     display: flex;
     flex-direction: column;
     justify-content: center;
     margin-left: 12%;
-    margin-top: -3%;
+    margin-top: -48%;
 }
 .blacktwo{
     width: 18%;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    margin-left: 8%;
+    margin-left: 12%;
     margin-top: 6%;
 }
 .blackthree{
@@ -346,29 +353,34 @@ body{
     flex-direction: column;
     justify-content: center;
     margin-left: 38%;
-    margin-top: -1%;
+    margin-top: -18%;
 }
-blackfive{
+.blackfour{
     width: 25%;
     display: flex;
     flex-direction: column;
     justify-content: center;
     margin-left: 60%;
-    margin-top: -34%;
+    margin-top: -3%;
 }
-blackfour{
+.blackfive{
     width: 25%;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    margin-left: 60%;
-    margin-top: -1%;
+    margin-left: 70%;
+    margin-top: -29%;
 }
-.red{
+.red1{
     width: 70%;
     display: flex;
     flex-direction: column;
     justify-content: center;
     margin-left: 15%;
-    margin-top: -70%;
+    margin-top: -23%;
+}
+.box24{
+    display: flex;
+    justify-content: center;
+    margin-top: -2%
 }
