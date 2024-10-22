@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(255, 255, 255);
+    background-color: white;
     width: 100%; 
     overflow-x: hidden;
 }
@@ -186,7 +186,7 @@ body{
 .box13{
     display: flex;
     justify-content: center;
-    margin-right: 20%;
+    margin-right: 25%;
     margin-top: 2%;
     gap: 20px;
 }
@@ -200,7 +200,7 @@ body{
 .box14{
     display: flex;
     justify-content: center;
-    margin-right: 48.5%;
+    margin-right: 65.5%;
     margin-top: 2%;
     gap: 20px;
 }
@@ -214,9 +214,10 @@ body{
 .box15{
     display: flex;
     justify-content: center;
-    margin-right: 48.5%;
-    margin-top: 2%;
+    margin-right: -250px;
+    margin-top: -2.5%;
     gap: 20px;
+    position: relative;
 }
 .liner13{
     border: 2px dashed rgb(0, 0, 0);
@@ -228,7 +229,7 @@ body{
 .box16{
     display: flex;
     justify-content: center;
-    margin-right: 48.5%;
+    margin-right: 58%;
     margin-top: 2%;
     gap: 20px;
 }
@@ -238,4 +239,136 @@ body{
     margin-top: -2px;
     margin-right: 235px;
     position: relative; 
+}
+.box17{
+    display: flex;
+    justify-content: center;
+    margin-right: 9%;
+    margin-top: 2%;
+    gap: 20px;
+}
+.liner15{
+    border: 2px dashed rgb(0, 0, 0);
+    width: 985px;
+    margin-top: -2px;
+    margin-right: 235px;
+    position: relative; 
+}
+.box18{
+    display: flex;
+    justify-content: center;
+    margin-right: 25.5%;
+    margin-top: 2%;
+    gap: 20px;
+}
+.liner16{
+    border: 2px dashed rgb(0, 0, 0);
+    width: 985px;
+    margin-top: -2px;
+    margin-right: 235px;
+    position: relative; 
+}
+.box19{
+    display: flex;
+    justify-content: center;
+    margin-right: 58.5%;
+    margin-top: 2%;
+    gap: 20px;
+}
+.liner17{
+    border: 2px dashed rgb(0, 0, 0);
+    width: 985px;
+    margin-top: -2px;
+    margin-right: 235px;
+    position: relative; 
+}
+.box20{
+    display: flex;
+    justify-content: center;
+    margin-right: 37%;
+    margin-top: 2%;
+    gap: 20px;
+}
+.liner18{
+    border: 2px dashed rgb(0, 0, 0);
+    width: 985px;
+    margin-top: -2px;
+    margin-right: 235px;
+    position: relative; 
+}
+.box21{
+    display: flex;
+    justify-content: center;
+    margin-right: 35.5%;
+    margin-top: 2%;
+    gap: 20px;
+}
+.liner19{
+    border: 2px dashed rgb(0, 0, 0);
+    width: 985px;
+    margin-top: -2px;
+    margin-right: 235px;
+    position: relative; 
+}
+.box22{
+    width: 100%;
+    margin-top: 4%;
+}
+.box23{
+    display: flex;
+    justify-content: center;
+    margin-top: 7.5%;
+}
+.text7{
+    font-size: 85px;
+}
+
+
+.blackone{
+    width: 23%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 12%;
+    margin-top: -3%;
+}
+.blacktwo{
+    width: 18%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 8%;
+    margin-top: 6%;
+}
+.blackthree{
+    width: 18%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 38%;
+    margin-top: -1%;
+}
+blackfive{
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 60%;
+    margin-top: -34%;
+}
+blackfour{
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 60%;
+    margin-top: -1%;
+}
+.red{
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 15%;
+    margin-top: -70%;
 }
