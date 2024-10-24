@@ -5,8 +5,18 @@
     font-weight: normal;
 }
 
-h1, p, .th1{ 
+h1, p, h3{ 
     font-family: "anonymouspro";
+}
+
+@font-face {
+    font-family: "anonymousproitalic";
+    src: url("../fonts/anonymousproitalic.ttf")  format("truetype");
+    font-style: italic;
+    font-weight: italic;
+}
+h4{
+    font-family: "anonymousproitalic";
 }
 
 @font-face {
@@ -15,7 +25,7 @@ h1, p, .th1{
     font-style: bold;
     font-weight: bold;
 }
-h2, div{
+h2, div, h5{
     font-family: "anonymousprobold";
 }
 
@@ -25,10 +35,7 @@ h2, div{
     font-style: bold italic;
     font-weight: bold italic;
 }
-
-@font-face {
-    font-family: "anonymousproitalic";
-    src: url("../fonts/anonymousproitalic.ttf")  format("truetype");
-    font-style: italic;
-    font-weight: italic;
+h6{
+    font-family: "anonymousprobolditalic";
 }
+
