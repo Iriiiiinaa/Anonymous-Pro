@@ -383,5 +383,39 @@ body{
 .box24{
     display: flex;
     justify-content: center;
-    margin-top: -2%
+    margin-top: -1%;
+    margin-left: -460px;
+}
+
+.cube{
+    border: #333 solid 3px;
+    background: #ffffff;
+    width: 500px;
+    height: 146px;
+    margin-top: 30px;
+    margin-left: 180px;
+}
+.table{
+    border: #333 solid 1.5px;
+    width: 500px;
+    margin-top: -4.5%;
+    margin-left: 180px;
+    position: relative; 
+}
+.table1{
+    border: #333 solid 1.5px;
+    width: 146px;
+    margin-top: -0.7%;
+    margin-left: 360px;
+    position: relative; 
+    rotate: 90deg;
+}  
+.text8{
+    font-size: 25px;
+}
+.box25{
+    display: flex;
+    justify-content: center;
+    margin-top: -4%;
+    margin-left: 400px;
 }
