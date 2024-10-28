@@ -447,12 +447,269 @@ body{
     margin-left: -555px;
 }
 .cube1{
-    width: 1220px;
-    height: 200px;
+    width: 1296px;
+    height: 220px;
     border: #333 solid 3px;
-    background: #333;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    margin-top: -20%;
+    margin: 5% auto 0px;
+}
+.table2{
+    border: #000000 solid 1.5px;
+    width: 1296px;
+    margin-top: -6.5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative; 
+}
+.table3{
+    border: #000000 solid 1.5px;
+    width: 1296px;
+    margin-top: -4.1%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative; 
+}
+.table4{
+    border: #000000 solid 1.5px;
+    width: 1296px;
+    margin-top: 6.5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative; 
+}
+.table5{
+    border: #000000 solid 1.5px;
+    width: 220px;
+    margin-top: -4.2%;
+    margin-left: 330px;
+    position: relative; 
+    rotate: 90deg;
+}
+.table6{
+    border: #000000 solid 1.5px;
+    width: 220px;
+    margin-top: -0.6%;
+    margin-left: 590px;
+    position: relative; 
+    rotate: 90deg;
+}
+.table7{
+    border: #000000 solid 1.5px;
+    width: 220px;
+    margin-top: -0.6%;
+    margin-left: 856px;
+    position: relative; 
+    rotate: 90deg;
+}
+.table8{
+    border: #000000 solid 1.5px;
+    width: 220px;
+    margin-top: -0.7%;
+    margin-left: 1116px;
+    position: relative; 
+    rotate: 90deg;
+}
+.box30{
+    display: flex;
+    justify-content: space-around;
+    gap: 100px;
+    margin-top: -6%;
+    position: relative;
+    margin-left: 100px;
+}
+.box31{
+    display: flex;
+    flex-flow: row wrap;
+    gap: 10px;
+    margin-top: 1.6%;
+    position: relative;
+    margin-left: 4%;
+}
+.box32{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 1.5%;
+    margin-left: 0px;
+}
+.box33{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 1.4%;
+    margin-left: 0px;
+}
+.black1{
+    width: 110%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: -3%;
+    margin-top: 10%;
+    rotate: 4deg;
+}
+.black2{
+    width: 110%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: -3%;
+    margin-top: 4%;
+    rotate: 1.5deg;
+}
+.black3{
+    width: 110%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: -5%;
+    margin-top: -10%;
+    rotate: -10deg;
+}
+
+.box34{
+    display: flex;
+    justify-content: center;
+    margin-top: 12%;
+    margin-left: -785px;
+}
+.text10{
+    font-size: 60px;
+}
+.box35{
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+    margin-left: -868px;
+}
+.cube2{
+    border: #000000 solid 3px;
+    background: #ffffff;
+    width: 355px;
+    height: 285px;
+    margin-top: 30px;
+    margin-left: 185px;
+}
+.table9{
+    border: #000000 solid 1.5px;
+    width: 285px;
+    margin-top: -8.8%;
+    margin-left: 223px;
+    position: relative; 
+    rotate: 90deg;
+}
+.table10{
+    border: #000000 solid 1.5px;
+    width: 355px;
+    margin-top: 5%;
+    margin-left: 185px;
+    position: relative; 
+}
+.cube3{
+    border: #000000 solid 3px;
+    background: #ffffff;
+    width: 355px;
+    height: 285px;
+    margin-top: 30px;
+    margin-left: 185px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: -14.5% auto 0px;
+}
+.table11{
+    border: #000000 solid 1.5px;
+    width: 285px;
+    margin-top: -8.8%;
+    margin-left: 223px;
+    position: relative; 
+    rotate: 90deg;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: -8.9% auto 0px;
+}
+.table12{
+    border: #000000 solid 1.5px;
+    width: 355px;
+    margin-top: 5%;
+    margin-left: 185px;
+    position: relative; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 5% auto 0px;
+}
+.cube4{
+    border: #000000 solid 3px;
+    background: #ffffff;
+    width: 355px;
+    height: 285px;
+    margin-top: -13.85%;
+    margin-left: 1120px;
+}
+.table13{
+    border: #000000 solid 1.5px;
+    width: 285px;
+    margin-top: -8.8%;
+    margin-left: 1158px;
+    position: relative; 
+    rotate: 90deg;
+}
+.table14{
+    border: #000000 solid 1.5px;
+    width: 355px;
+    margin-top: 5%;
+    margin-left: 1120px;
+    position: relative; 
+}
+.text11{
+    font-size: 250px;
+}
+.letter{
+    display: flex;
+    justify-content: center;
+    margin-top: -15%;
+    margin-left: -1085px;
+}
+.cane{
+    display: flex;
+    justify-content: center;
+    margin-top: -12.2%;
+    margin-left: -755px;
+}
+.letter1{
+    display: flex;
+    justify-content: center;
+    margin-top: -12.5%;
+    margin-left: -155px;
+}
+.cane1{
+    display: flex;
+    justify-content: center;
+    margin-top: -12.2%;
+    margin-left: 170px;
+}
+.letter2{
+    display: flex;
+    justify-content: center;
+    margin-top: -14%;
+    margin-left: 780px;
+}
+.cane2{
+    display: flex;
+    justify-content: center;
+    margin-top: -12.2%;
+    margin-left: 1110px;
+}
+.box36{
+    display: flex;
+    justify-content: space-around;
+    gap: -500px;
+    margin-top: 2.5%;
+    position: relative;
+    margin-left: 100px;
 }
