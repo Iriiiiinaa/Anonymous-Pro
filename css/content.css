@@ -985,7 +985,69 @@ body{
 .lyp{
     display: flex;
     justify-content: center;
-    margin-top: -10%;
-    margin-left: 880px;
-    rotate: -3.48deg;
+    margin-top: -36%;
+    margin-left: -1200px;
+    rotate: 121.89deg;
+}
+.lyp1{
+    display: flex;
+    justify-content: center;
+    margin-top: -1%;
+    margin-left: -650px;
+    rotate: -57.96deg;
+}
+.lyp2{
+    display: flex;
+    justify-content: center;
+    margin-top: -17%;
+    margin-left: 60px;
+    rotate: -175.77deg;
+}
+.lyp3{
+    display: flex;
+    justify-content: center;
+    margin-top: 20.5%;
+    margin-left: -1150px;
+    rotate: 36.84deg;
+}
+.lyp4{
+    display: flex;
+    justify-content: center;
+    margin-top: -14.8%;
+    margin-left: -300px;
+    rotate: -36.54deg;
+}
+.lyp5{
+    display: flex;
+    justify-content: center;
+    margin-top: -11.5%;
+    margin-left: 350px;
+    rotate: 122.78deg;
+}
+.note1{
+    display: flex;
+    justify-content: center;
+    width: 700px;
+    margin-top: -33%;
+    margin-left: 870px;
+}
+.note2{
+    display: flex;
+    justify-content: center;
+    margin-top: 18.5%;
+    margin-left: 920px;
+}
+.box49{
+    display: flex;
+    justify-content: center;
+    margin-top: -41.2%;
+    margin-left: 693px;
+    rotate: -8.19deg;
+}
+.box50{
+    display: flex;
+    justify-content: center;
+    margin-top: 27.5%;
+    margin-left: 870px;
+    rotate: 8.57deg;
 }
