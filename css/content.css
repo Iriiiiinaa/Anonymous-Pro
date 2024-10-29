@@ -516,29 +516,32 @@ body{
 }
 .box30{
     display: flex;
-    justify-content: space-around;
-    gap: 100px;
+    justify-content: center;
+    gap: 150px;
     margin-top: -6%;
     position: relative;
-    margin-left: 100px;
+    margin-left: -80px;
 }
+
 .box31{
     display: flex;
-    flex-flow: row wrap;
-    gap: 10px;
+    justify-content: center;
+    gap: 150px;
     margin-top: 1.6%;
     position: relative;
-    margin-left: 4%;
+    margin-left: -40px;
 }
 .box32{
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+    gap: 120px;
     margin-top: 1.5%;
     margin-left: 0px;
 }
 .box33{
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+    gap: 120px;
     margin-top: 1.4%;
     margin-left: 0px;
 }
@@ -707,9 +710,28 @@ body{
 }
 .box36{
     display: flex;
-    justify-content: space-around;
-    gap: -500px;
+    justify-content: center;
+    gap: 100px;
     margin-top: 2.5%;
-    position: relative;
-    margin-left: 100px;
+    margin-left: -915px;
+}
+.box37{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    margin-top: -1.5%;
+    margin-left: 15px;
+}
+.box38{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    margin-top: -1.5%;
+    margin-left: 953px;
+}
+.note{
+    display: flex;
+    justify-content: center;
+    margin-top: -12.2%;
+    margin-left: 1000px;
 }
