@@ -940,3 +940,52 @@ body{
     margin-top: 13.1%;
     margin-left: -415px;
 }
+.finger4{
+    display: flex;
+    justify-content: center;
+    margin-top: -10%;
+    margin-left: 320px;
+}
+.finger5{
+    display: flex;
+    justify-content: center;
+    margin-top: -10%;
+    margin-left: 320px;
+}
+.finger4{
+    display: flex;
+    justify-content: center;
+    margin-top: -13.2%;
+    margin-left: -1110px;
+}
+.finger5{
+    display: flex;
+    justify-content: center;
+    margin-top: -9.5%;
+    margin-left: -750px;
+}
+.finger6{
+    display: flex;
+    justify-content: center;
+    margin-top: -9.5%;
+    margin-left: -45px;
+}
+.box47{
+    display: flex;
+    justify-content: center;
+    margin-top: -11%;
+    margin-left: -380px;
+}
+.box48{
+    display: flex;
+    justify-content: center;
+    margin-top: -12.5%;
+    margin-left: 320px;
+}
+.lyp{
+    display: flex;
+    justify-content: center;
+    margin-top: -10%;
+    margin-left: 880px;
+    rotate: -3.48deg;
+}
