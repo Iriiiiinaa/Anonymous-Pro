@@ -1034,20 +1034,139 @@ body{
 .note2{
     display: flex;
     justify-content: center;
-    margin-top: 18.5%;
+    width: 700px;
+    margin-top: 15%;
     margin-left: 920px;
 }
 .box49{
     display: flex;
     justify-content: center;
-    margin-top: -41.2%;
-    margin-left: 693px;
+    margin-top: -34.5%;
+    margin-left: 694.5px;
     rotate: -8.19deg;
 }
 .box50{
     display: flex;
     justify-content: center;
-    margin-top: 27.5%;
-    margin-left: 870px;
+    margin-top: 24.5%;
+    margin-left: 860px;
     rotate: 8.57deg;
+}
+.box51{
+    display: flex;
+    justify-content: center;
+    margin-top: 7.3%;
+    margin-left: -890px;
+}
+.rred{
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+    margin-left: -1240px;
+}
+.text14{
+    font-size: 238px;
+}
+.letter3{
+    display: flex;
+    justify-content: center;
+    margin-top: -12.2%;
+    margin-left: -1100px;
+}
+.rred1{
+    display: flex;
+    justify-content: center;
+    margin-top: -12.4%;
+    margin-left: -850px;
+}
+.letter4{
+    display: flex;
+    justify-content: center;
+    margin-top: -12.2%;
+    margin-left: -690px;
+}
+.rred2{
+    display: flex;
+    justify-content: center;
+    margin-top: -12.2%;
+    margin-left: -400px;
+}
+.letter5{
+    display: flex;
+    justify-content: center;
+    margin-top: -12.2%;
+    margin-left: -250px;
+}
+.rred3{
+    display: flex;
+    justify-content: center;
+    margin-top: -12.3%;
+    margin-left: 50px;
+}
+.letter6{
+    display: flex;
+    justify-content: center;
+    margin-top: -12.2%;
+    margin-left: 200px;
+}
+.note3{
+    display: flex;
+    justify-content: center;
+    margin-top: -14%;
+    margin-left: 1000px;
+}
+.box52{
+    display: flex;
+    justify-content: center;
+    margin-top: -10.2%;
+    margin-left: 1000px;
+    rotate: -6.97deg;
+}
+.box53{
+    display: flex;
+    justify-content: center;
+    margin-top: -7.2%;
+    margin-left: -1285px;
+}
+.box54{
+    display: flex;
+    justify-content: center;
+    margin-top: -1.5%;
+    margin-left: -900px;
+}
+.box55{
+    display: flex;
+    justify-content: center;
+    margin-top: -1.5%;
+    margin-left: -445px;
+}
+.box56{
+    display: flex;
+    justify-content: center;
+    margin-top: -1.5%;
+    margin-left: 5px;
+}
+.box57{
+    display: flex;
+    justify-content: center;
+    margin-top: -1.5%;
+    margin-left: 5px;
+}
+.box58{
+    display: flex;
+    justify-content: center;
+    margin-top: -1.5%;
+    margin-left: 5px;
+}
+.box59{
+    display: flex;
+    justify-content: center;
+    margin-top: -1.5%;
+    margin-left: 5px;
+}
+.box60{
+    display: flex;
+    justify-content: center;
+    margin-top: -1.5%;
+    margin-left: 5px;
 }
