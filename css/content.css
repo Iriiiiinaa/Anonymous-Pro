@@ -801,9 +801,9 @@ body{
 .cube11{
     border: #000000 solid 3px;
     background: #ffffff;
-    width: 889px;
+    width: 176px;
     height: 44px;
-    margin-top: -0.5%;
+    margin-top: -0.2%;
     margin-left: 185px;
 }
 .cube12{
@@ -817,7 +817,7 @@ body{
 .box41{
     display: flex;
     justify-content: center;
-    margin-top: -36.5%;
+    margin-top: -37.2%;
     margin-left: -400px;
 }
 .finger1{
@@ -836,7 +836,7 @@ body{
     display: flex;
     justify-content: center;
     margin-top: -10%;
-    margin-left: 310px;
+    margin-left: 320px;
 }
 .text12{
     font-size: 210px;
@@ -852,4 +852,91 @@ body{
     justify-content: center;
     margin-top: -12.5%;
     margin-left: -20px;
+}
+.cube13{
+    border: #000000 solid 3px;
+    background: #ffffff;
+    width: 176px;
+    height: 44px;
+    margin-top: -0.4%;
+    margin-left: 364px;
+}
+.cube14{
+    border: #000000 solid 3px;
+    background: #ffffff;
+    width: 176px;
+    height: 44px;
+    margin-top: -2.95%;
+    margin-left: 541px;
+}
+.cube15{
+    border: #000000 solid 3px;
+    background: #ffffff;
+    width: 176px;
+    height: 44px;
+    margin-top: -2.96%;
+    margin-left: 720px;
+}
+.cube16{
+    border: #000000 solid 3px;
+    background: #ffffff;
+    width: 176px;
+    height: 44px;
+    margin-top: -2.96%;
+    margin-left: 898px;
+}
+.box44{
+    display: flex;
+    justify-content: center;
+    gap: 64px;
+    margin-top: -2%;
+    margin-left: -415px;
+}
+.text13{
+    font-size: 23px;
+}
+.cube17{
+    border: #000000 solid 3px;
+    background: #ffffff;
+    width: 176px;
+    height: 44px;
+    margin-top: 18.25%;
+    margin-left: 364px;
+}
+.cube18{
+    border: #000000 solid 3px;
+    background: #ffffff;
+    width: 176px;
+    height: 44px;
+    margin-top: -2.95%;
+    margin-left: 541px;
+}
+.cube19{
+    border: #000000 solid 3px;
+    background: #ffffff;
+    width: 176px;
+    height: 44px;
+    margin-top: -2.96%;
+    margin-left: 720px;
+}
+.cube20{
+    border: #000000 solid 3px;
+    background: #ffffff;
+    width: 176px;
+    height: 44px;
+    margin-top: -2.96%;
+    margin-left: 898px;
+}
+.box45{
+    display: flex;
+    justify-content: center;
+    margin-top: -16.55%;
+    margin-left: -400px;
+}
+.box46{
+    display: flex;
+    justify-content: center;
+    gap: 64px;
+    margin-top: 13.1%;
+    margin-left: -415px;
 }
