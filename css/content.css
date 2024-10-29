@@ -1050,7 +1050,7 @@ body{
     justify-content: center;
     margin-top: 24.5%;
     margin-left: 860px;
-    rotate: 8.57deg;
+    rotate: 7.03deg;
 }
 .box51{
     display: flex;
@@ -1119,8 +1119,8 @@ body{
     display: flex;
     justify-content: center;
     margin-top: -10.2%;
-    margin-left: 1000px;
-    rotate: -6.97deg;
+    margin-left: 990px;
+    rotate: -8.06deg;
 }
 .box53{
     display: flex;
@@ -1254,4 +1254,44 @@ body{
     justify-content: center;
     margin-top: -2%;
     margin-left: 900px;
+}
+.box70{
+    display: flex;
+    justify-content: center;
+    margin-top: -7.2%;
+    margin-left: 865px;
+    rotate: 6.63deg;
+}
+.papka{
+    display: flex;
+    justify-content: center;
+    margin-top: 1%;
+    margin-left: 350px;
+    rotate: 6.63deg;
+}
+.papka1{
+    display: flex;
+    justify-content: center;
+    margin-top: -57%;
+    margin-left: -60px;
+    rotate: -7deg;
+}
+.papka2{
+    display: flex;
+    justify-content: center;
+    margin-top: -57%;
+    margin-left: -400px;
+    rotate: -4deg;
+}
+.sled{
+    display: flex;
+    justify-content: center;
+    margin-top: 6%;
+    margin-left: 0px;
+}
+.box71{
+    display: flex;
+    justify-content: center;
+    margin-top: -2%;
+    margin-left: -1140px;
 }
