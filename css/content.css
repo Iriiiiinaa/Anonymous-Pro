@@ -1431,6 +1431,14 @@ body{
 .subject1{
     display: flex;
     justify-content: center;
+    width: 100px;
+    margin-top: -14%;
+    margin-left: -1060px;
+}
+.subject1 img{
+    display: flex;
+    justify-content: center;
+    width: 100px;
     margin-top: -14%;
     margin-left: -1060px;
 }
@@ -1463,4 +1471,40 @@ body{
     justify-content: center;
     margin-top: -7.5%;
     margin-left: 920px;
+}
+.subject7{
+    display: flex;
+    justify-content: center;
+    margin-top: 8%;
+    margin-left: -1040px;
+}
+.subject8{
+    display: flex;
+    justify-content: center;
+    margin-top: 8%;
+    margin-left: -1180px;
+}
+.subject9{
+    display: flex;
+    justify-content: center;
+    margin-top: 8%;
+    margin-left: -1180px;
+}
+.subject10{
+    display: flex;
+    justify-content: center;
+    margin-top: 8%;
+    margin-left: -1180px;
+}
+.subject11{
+    display: flex;
+    justify-content: center;
+    margin-top: 8%;
+    margin-left: -1180px;
+}
+.subject12{
+    display: flex;
+    justify-content: center;
+    margin-top: 8%;
+    margin-left: -1180px;
 }
