@@ -421,7 +421,7 @@ body{
 .table{
     border: #000000 solid 1.5px;
     width: 500px;
-    margin-top: -7.5%;
+    margin-top: -9%;
     justify-content: start;
     margin-left: 185px;
     position: relative; 
@@ -429,7 +429,7 @@ body{
 .table1{
     border: #000000 solid 1.5px;
     width: 146px;
-    margin-top: -0.7%;
+    margin-top: -1%;
     margin-left: 360px;
     position: relative; 
     rotate: 90deg;
