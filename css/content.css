@@ -896,9 +896,9 @@ body{
 }
 .box51{
     display: flex;
-    justify-content: center;
+    justify-content: start;
+    margin-left: 185px;
     margin-top: 7.3%;
-    margin-left: -890px;
 }
 .rred{
     display: flex;
