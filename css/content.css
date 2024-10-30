@@ -650,7 +650,7 @@ body{
     background: #ffffff;
     width: 355px;
     height: 285px;
-    margin-top: -14.5%;
+    margin-top: -20%;
     justify-content: start;
     margin-left: 1100px;
 }
@@ -778,9 +778,9 @@ body{
 
 .box40{
     display: flex;
-    justify-content: center;
+    justify-content: start;
+    margin-left: 185px;
     margin-top: 19%;
-    margin-left: -1030px;
 }
 .cube5{
     border: #000000 solid 3px;
@@ -788,6 +788,7 @@ body{
     width: 889px;
     height: 44px;
     margin-top: 1.8%;
+    justify-content: start;
     margin-left: 185px;
 }
 .cube6{
