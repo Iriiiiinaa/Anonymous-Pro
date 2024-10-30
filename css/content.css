@@ -1655,3 +1655,14 @@ body{
     margin-top: 12.3%;
     margin-left: -1060px;
 }
+
+.line{
+    display: flex;
+    justify-content: center;
+    width: 80%;
+    margin-top: -33%;
+    margin-left: 0px;
+}
+.line img{
+    width: 80%;
+}
