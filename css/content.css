@@ -421,7 +421,7 @@ body{
 .table{
     border: #000000 solid 1.5px;
     width: 500px;
-    margin-top: -9%;
+    margin-top: -4%;
     justify-content: start;
     margin-left: 185px;
     position: relative; 
@@ -442,7 +442,7 @@ body{
     flex-direction: column;
     justify-content: start;
     margin-left: 760px;
-    margin-top: -4.7%;
+    margin-top: -10%;
 }
 .text9{
     font-size: 30px;
