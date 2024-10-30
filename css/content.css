@@ -421,7 +421,7 @@ body{
 .table{
     border: #000000 solid 1.5px;
     width: 500px;
-    margin-top: -4%;
+    margin-top: -3.7%;
     justify-content: start;
     margin-left: 185px;
     position: relative; 
@@ -429,7 +429,7 @@ body{
 .table1{
     border: #000000 solid 1.5px;
     width: 146px;
-    margin-top: -1%;
+    margin-top: -0.5%;
     margin-left: 360px;
     position: relative; 
     rotate: 90deg;
@@ -442,7 +442,7 @@ body{
     flex-direction: column;
     justify-content: start;
     margin-left: 760px;
-    margin-top: -10%;
+    margin-top: -8.5%;
 }
 .text9{
     font-size: 30px;
@@ -621,85 +621,11 @@ body{
     margin-left: 185px;
     margin-top: 3%;
 }
-.cube2{
-    border: #000000 solid 3px;
-    background: #ffffff;
-    width: 355px;
-    height: 285px;
-    margin-top: 30px;
-    justify-content: start;
-    margin-left: 185px;
-}
-.table9{
-    border: #000000 solid 1.5px;
-    width: 285px;
-    margin-top: -8.8%;
-    margin-left: 223px;
-    position: relative; 
-    rotate: 90deg;
-}
-.table10{
-    border: #000000 solid 1.5px;
-    width: 355px;
-    margin-top: 5%;
-    margin-left: 185px;
-    position: relative; 
-}
-.cube3{
-    border: #000000 solid 3px;
-    background: #ffffff;
-    width: 355px;
-    height: 285px;
-    margin-top: -20%;
-    justify-content: start;
-    margin-left: 1100px;
-}
-.table11{
-    border: #000000 solid 1.5px;
-    width: 285px;
-    margin-top: -8.8%;
-    margin-left: 223px;
-    position: relative; 
-    rotate: 90deg;
+.group{
     display: flex;
-    flex-direction: column;
-    justify-content: center;
-    margin: -8.9% auto 0px;
-}
-.table12{
-    border: #000000 solid 1.5px;
-    width: 355px;
-    margin-top: 5%;
-    margin-left: 185px;
-    position: relative; 
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    margin: 5% auto 0px;
-}
-.cube4{
-    border: #000000 solid 3px;
     justify-content: start;
-    margin-top: -12%;
-    margin-left: 650px;
-    background: #ffffff;
-    width: 355px;
-    height: 285px;
-}
-.table13{
-    border: #000000 solid 1.5px;
-    width: 230px;
-    margin-top: -7%;
-    margin-left: 1170px;
-    position: relative; 
-    rotate: 90deg;
-}
-.table14{
-    border: #000000 solid 1.5px;
-    width: 355px;
-    margin-top: 3.3%;
-    margin-left: 1100px;
-    position: relative; 
+    margin-left: 185px;
+    margin-top: 3%;
 }
 .text11{
     font-size: 250px;
@@ -707,7 +633,7 @@ body{
 .letter{
     display: flex;
     justify-content: center;
-    margin-top: -15%;
+    margin-top: -18%;
     margin-left: -1085px;
 }
 .cane{
@@ -720,25 +646,25 @@ body{
     display: flex;
     justify-content: center;
     margin-top: -12.5%;
-    margin-left: -155px;
+    margin-left: -245px;
 }
 .cane1{
     display: flex;
     justify-content: center;
     margin-top: -12.2%;
-    margin-left: 170px;
+    margin-left: 80px;
 }
 .letter2{
     display: flex;
     justify-content: center;
     margin-top: -14%;
-    margin-left: 750px;
+    margin-left: 610px;
 }
 .cane2{
     display: flex;
     justify-content: center;
     margin-top: -12.2%;
-    margin-left: 1090px;
+    margin-left: 950px;
 }
 .box36{
     display: flex;
@@ -752,14 +678,14 @@ body{
     justify-content: center;
     gap: 100px;
     margin-top: -1.5%;
-    margin-left: 15px;
+    margin-left: -70px;
 }
 .box38{
     display: flex;
     justify-content: center;
     gap: 100px;
     margin-top: -1.5%;
-    margin-left: 920px;
+    margin-left: 770px;
 }
 .note{
     display: flex;
@@ -782,75 +708,22 @@ body{
     margin-left: 185px;
     margin-top: 19%;
 }
-.cube5{
-    border: #000000 solid 3px;
-    background: #ffffff;
-    width: 889px;
-    height: 44px;
-    margin-top: 1.8%;
+.a{
+    display: flex;
     justify-content: start;
     margin-left: 185px;
+    margin-top: 2%;
 }
-.cube6{
-    border: #000000 solid 3px;
-    background: #ffffff;
-    width: 176px;
-    height: 195px;
-    margin-top: -0.2%;
+.b{
+    display: flex;
+    justify-content: start;
     margin-left: 185px;
-}
-.cube7{
-    border: #000000 solid 3px;
-    background: #ffffff;
-    width: 176px;
-    height: 195px;
-    margin-top: -12.05%;
-    margin-left: 364px;
-}
-.cube8{
-    border: #000000 solid 3px;
-    background: #ffffff;
-    width: 176px;
-    height: 195px;
-    margin-top: -12.05%;
-    margin-left: 542px;
-}
-.cube9{
-    border: #000000 solid 3px;
-    background: #ffffff;
-    width: 176px;
-    height: 195px;
-    margin-top: -12.05%;
-    margin-left: 720px;
-}
-.cube10{
-    border: #000000 solid 3px;
-    background: #ffffff;
-    width: 176px;
-    height: 195px;
-    margin-top: -12.03%;
-    margin-left: 898px;
-}
-.cube11{
-    border: #000000 solid 3px;
-    background: #ffffff;
-    width: 176px;
-    height: 44px;
-    margin-top: -0.2%;
-    margin-left: 185px;
-}
-.cube12{
-    border: #000000 solid 3px;
-    background: #ffffff;
-    width: 889px;
-    height: 44px;
-    margin-top: 3%;
-    margin-left: 185px;
+    margin-top: 2%;
 }
 .box41{
     display: flex;
     justify-content: center;
-    margin-top: -37.2%;
+    margin-top: -36%;
     margin-left: -400px;
 }
 .finger1{
@@ -886,84 +759,20 @@ body{
     margin-top: -12.5%;
     margin-left: -20px;
 }
-.cube13{
-    border: #000000 solid 3px;
-    background: #ffffff;
-    width: 176px;
-    height: 44px;
-    margin-top: -0.4%;
-    margin-left: 364px;
-}
-.cube14{
-    border: #000000 solid 3px;
-    background: #ffffff;
-    width: 176px;
-    height: 44px;
-    margin-top: -2.95%;
-    margin-left: 541px;
-}
-.cube15{
-    border: #000000 solid 3px;
-    background: #ffffff;
-    width: 176px;
-    height: 44px;
-    margin-top: -2.96%;
-    margin-left: 720px;
-}
-.cube16{
-    border: #000000 solid 3px;
-    background: #ffffff;
-    width: 176px;
-    height: 44px;
-    margin-top: -2.96%;
-    margin-left: 898px;
-}
 .box44{
     display: flex;
     justify-content: center;
     gap: 64px;
-    margin-top: -2%;
+    margin-top: 0.5%;
     margin-left: -415px;
 }
 .text13{
     font-size: 23px;
 }
-.cube17{
-    border: #000000 solid 3px;
-    background: #ffffff;
-    width: 176px;
-    height: 44px;
-    margin-top: 18.25%;
-    margin-left: 364px;
-}
-.cube18{
-    border: #000000 solid 3px;
-    background: #ffffff;
-    width: 176px;
-    height: 44px;
-    margin-top: -2.95%;
-    margin-left: 541px;
-}
-.cube19{
-    border: #000000 solid 3px;
-    background: #ffffff;
-    width: 176px;
-    height: 44px;
-    margin-top: -2.96%;
-    margin-left: 720px;
-}
-.cube20{
-    border: #000000 solid 3px;
-    background: #ffffff;
-    width: 176px;
-    height: 44px;
-    margin-top: -2.96%;
-    margin-left: 898px;
-}
 .box45{
     display: flex;
     justify-content: center;
-    margin-top: -16.55%;
+    margin-top: 3.5%;
     margin-left: -400px;
 }
 .box46{
