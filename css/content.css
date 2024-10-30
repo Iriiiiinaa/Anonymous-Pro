@@ -421,7 +421,7 @@ body{
 .table{
     border: #000000 solid 1.5px;
     width: 500px;
-    margin-top: -4.5%;
+    margin-top: -7.5%;
     justify-content: start;
     margin-left: 185px;
     position: relative; 
@@ -439,34 +439,39 @@ body{
 }
 .box25{
     display: flex;
-    justify-content: center;
-    margin-top: -4.5%;
-    margin-left: 350px;
+    flex-direction: column;
+    justify-content: start;
+    margin-left: 760px;
+    margin-top: -4.7%;
 }
 .text9{
     font-size: 30px;
 }
 .box26{
     display: flex;
-    margin-top: -6.5%;
+    margin-top: -3.5%;
+    flex-direction: column;
     justify-content: start;
     margin-left: 220px;
 }
 .box27{
     display: flex;
     margin-top: -1.75%;
+    flex-direction: column;
     justify-content: start;
     margin-left: 470px;
 }
 .box28{
     display: flex;
     margin-top: 2.7%;
+    flex-direction: column;
     justify-content: start;
     margin-left: 220px;
 }
 .box29{
     display: flex;
     margin-top: -1.8%;
+    flex-direction: column;
     justify-content: start;
     margin-left: 470px;
 }
@@ -645,12 +650,9 @@ body{
     background: #ffffff;
     width: 355px;
     height: 285px;
-    margin-top: 30px;
-    margin-left: 185px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    margin: -14.5% auto 0px;
+    margin-top: -14.5%;
+    justify-content: start;
+    margin-left: 1100px;
 }
 .table11{
     border: #000000 solid 1.5px;
@@ -677,17 +679,18 @@ body{
 }
 .cube4{
     border: #000000 solid 3px;
+    justify-content: start;
+    margin-top: -14%;
+    margin-left: 650px;
     background: #ffffff;
     width: 355px;
     height: 285px;
-    margin-top: -13.85%;
-    margin-left: 1120px;
 }
 .table13{
     border: #000000 solid 1.5px;
     width: 230px;
-    margin-top: -7.1%;
-    margin-left: 1190px;
+    margin-top: -7%;
+    margin-left: 1170px;
     position: relative; 
     rotate: 90deg;
 }
@@ -695,7 +698,7 @@ body{
     border: #000000 solid 1.5px;
     width: 355px;
     margin-top: 3.3%;
-    margin-left: 1120px;
+    margin-left: 1100px;
     position: relative; 
 }
 .text11{
@@ -729,7 +732,7 @@ body{
     display: flex;
     justify-content: center;
     margin-top: -14%;
-    margin-left: 780px;
+    margin-left: 760px;
 }
 .cane2{
     display: flex;
@@ -741,7 +744,7 @@ body{
     display: flex;
     justify-content: center;
     gap: 100px;
-    margin-top: 2.5%;
+    margin-top: 2%;
     margin-left: -915px;
 }
 .box37{
@@ -763,7 +766,7 @@ body{
     justify-content: center;
     width: 700px;
     margin-top: -26.4%;
-    margin-left: 800px;
+    margin-left: 950px;
 }
 .box39{
     display: flex;
