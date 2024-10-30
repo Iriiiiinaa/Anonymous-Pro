@@ -107,6 +107,9 @@ body{
     width: 100%;
     margin-top: 8%;
 }
+.box7 img{
+    width: 100%;
+}
 
 .box8{
     display: flex;
@@ -215,7 +218,7 @@ body{
 .box15{
     display: flex;
     justify-content: center;
-    margin-right: -250px;
+    margin-left: -250px;
     margin-top: -2.5%;
     gap: 20px;
     position: relative;
@@ -314,6 +317,9 @@ body{
 .box22{
     width: 100%;
     margin-top: 4%;
+}
+.box22 img{
+    width: 100%;
 }
 .box23{
     display: flex;
@@ -734,7 +740,7 @@ body{
     justify-content: center;
     width: 700px;
     margin-top: -26.4%;
-    margin-left: 950px;
+    margin-left: 800px;
 }
 .box39{
     display: flex;
@@ -1029,14 +1035,14 @@ body{
     justify-content: center;
     width: 700px;
     margin-top: -33%;
-    margin-left: 870px;
+    margin-left: 800px;
 }
 .note2{
     display: flex;
     justify-content: center;
     width: 700px;
     margin-top: 15%;
-    margin-left: 920px;
+    margin-left: 600px;
 }
 .box49{
     display: flex;
@@ -1660,9 +1666,35 @@ body{
     display: flex;
     justify-content: center;
     width: 80%;
-    margin-top: -33%;
-    margin-left: 0px;
+    margin-top: 3%;
+    margin-left: 121px;
 }
 .line img{
     width: 80%;
+}
+.text19{
+    font-size: 40px;
+}
+.box78{
+    display: flex;
+    justify-content: center;
+    line-height: 78px;
+    margin-top: -32.5%;
+    margin-left: -1300px;
+}
+.box79{
+    display: flex;
+    justify-content: center;
+    line-height: 78px;
+    margin-top: -32.9%;
+    margin-left: 1200px;
+}
+.cube22{
+    border: #000000 solid 3px;
+    background: #000000;
+    width: 304px;
+    height: 428px;
+    margin-top: -32%;
+    margin-left: 300px;
+    rotate: -7.32deg;
 }
