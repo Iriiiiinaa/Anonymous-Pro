@@ -1570,18 +1570,24 @@ body{
     display: flex;
     justify-content: center;
     line-height: 78px;
-    margin-top: -27.5%;
-    margin-left: -870px;
-    rotate: -8.38deg;
+    margin-top: -14%;
+    margin-left: -60px;
+    rotate: 4.5deg;
     line-height: 35px;
 }
-.box80{
+.box82{
     color: #ffffff;
     display: flex;
     justify-content: center;
     line-height: 78px;
-    margin-top: -27.5%;
-    margin-left: -870px;
-    rotate: -8.38deg;
+    margin-top: -20%;
+    margin-left: 620px;
+    rotate: -2.69deg;
     line-height: 35px;
+}
+.box83{
+    display: flex;
+    justify-content: center;
+    margin-top: -20%;
+    margin-left: 620px;
 }
