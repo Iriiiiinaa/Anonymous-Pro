@@ -2,6 +2,8 @@ body{
     background-color: #ffffff;
     width: 1440px; 
     overflow-x: hidden;
+    margin-left: auto;
+    margin-right: auto;
 }
 .main{
     width: 1440px;
@@ -404,13 +406,13 @@ body{
 .box24{
     display: flex;
     justify-content: start;
-    margin-left: 185px;
+    margin-left: 145px;
     margin-top: -1%;
 }
 .sv{
     width: 60%;
     margin-top: 5%;
-    margin-left: 12.8%;
+    margin-left: 145px;
 }
 .sv{
     width: 60%;
@@ -422,7 +424,7 @@ body{
     height: 84px;
     margin-top: 30px;
     justify-content: start;
-    margin-left: 185px;
+    margin-left: 145px;
 }
 .cubee{
     border: #000000 solid 3px;
@@ -431,7 +433,7 @@ body{
     height: 84px;
     margin-top: -88.9px;
     justify-content: start;
-    margin-left: 428px;
+    margin-left: 388px;
 }
 .cubeee{
     border: #000000 solid 3px;
@@ -440,7 +442,7 @@ body{
     height: 84px;
     margin-top: -2.2px;
     justify-content: start;
-    margin-left: 428px;
+    margin-left: 388px;
 }
 .cubeeee{
     border: #000000 solid 3px;
@@ -449,7 +451,7 @@ body{
     height: 84px;
     margin-top: -89.5px;
     justify-content: start;
-    margin-left: 185px;
+    margin-left: 145px;
 }
 .text8{
     font-size: 25px;
@@ -458,7 +460,7 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: start;
-    margin-left: 760px;
+    margin-left: 720px;
     margin-top: -9%;
 }
 .text9{
@@ -469,34 +471,34 @@ body{
     margin-top: -9.5%;
     flex-direction: column;
     justify-content: start;
-    margin-left: 220px;
+    margin-left: 180px;
 }
 .box27{
     display: flex;
     margin-top: -2%;
     flex-direction: column;
     justify-content: start;
-    margin-left: 460px;
+    margin-left: 420px;
 }
 .box28{
     display: flex;
     margin-top: 4%;
     flex-direction: column;
     justify-content: start;
-    margin-left: 220px;
+    margin-left: 180px;
 }
 .box29{
     display: flex;
     margin-top: -2%;
     flex-direction: column;
     justify-content: start;
-    margin-left: 460px;
+    margin-left: 420px;
 }
 
 .box30{
     display: flex;
     justify-content: start;
-    margin-left: 210px;
+    margin-left: 170px;
     gap: 130px;
     margin-top: -14.5%;
     position: relative;
@@ -505,7 +507,7 @@ body{
 .box31{
     display: flex;
     justify-content: start;
-    margin-left: 210px;
+    margin-left: 170px;
     gap: 140px;
     margin-top: 1.8%;
     position: relative;
@@ -513,14 +515,14 @@ body{
 .box32{
     display: flex;
     justify-content: start;
-    margin-left: 210px;
+    margin-left: 170px;
     gap: 160px;
     margin-top: 1.5%;
 }
 .box33{
     display: flex;
     justify-content: start;
-    margin-left: 210px;
+    margin-left: 170px;
     gap: 100px;
     margin-top: 1.4%;
 }
@@ -555,7 +557,7 @@ body{
 .box34{
     display: flex;
     justify-content: start;
-    margin-left: 185px;
+    margin-left: 145px;
     margin-top: 12%;
 }
 .text10{
@@ -564,13 +566,13 @@ body{
 .box35{
     display: flex;
     justify-content: start;
-    margin-left: 185px;
+    margin-left: 145px;
     margin-top: 3%;
 }
-.group{
+.group1{
     display: flex;
     justify-content: start;
-    margin-left: 185px;
+    margin-left: 145px;
     margin-top: 3%;
 }
 .text11{
@@ -580,63 +582,63 @@ body{
     display: flex;
     justify-content: center;
     margin-top: -20%;
-    margin-left: -860px;
+    margin-left: -950px;
 }
 .cane{
     display: flex;
     justify-content: center;
     margin-top: -14%;
-    margin-left: -540px;
+    margin-left: -630px;
 }
 .letter1{
     display: flex;
     justify-content: center;
     margin-top: -14.5%;
-    margin-left: -20px;
+    margin-left: -100px;
 }
 .cane1{
     display: flex;
     justify-content: center;
     margin-top: -14%;
-    margin-left: 300px;
+    margin-left: 220px;
 }
 .letter2{
     display: flex;
     justify-content: center;
     margin-top: -17%;
-    margin-left: 840px;
+    margin-left: 760px;
 }
 .cane2{
     display: flex;
     justify-content: center;
     margin-top: -13.5%;
-    margin-left: 1160px;
+    margin-left: 1095px;
 }
 .box36{
     display: flex;
     justify-content: center;
     gap: 100px;
     margin-top: 2%;
-    margin-left: -705px;
+    margin-left: -780px;
 }
 .box37{
     display: flex;
     justify-content: center;
     gap: 100px;
     margin-top: -1.7%;
-    margin-left: 130px;
+    margin-left: 65px;
 }
 .box38{
     display: flex;
     justify-content: center;
     gap: 100px;
     margin-top: -1.5%;
-    margin-left: 1000px;
+    margin-left: 935px;
 }
 .note{
     display: flex;
     justify-content: center;
-    width: 600px;
+    width: 750px;
     margin-top: -26%;
     margin-left: 870px;
 }
@@ -644,51 +646,51 @@ body{
     display: flex;
     justify-content: center;
     margin-top: -11%;
-    margin-left: 880px;
+    margin-left: 970px;
     rotate: -3.48deg;
 }
 
 .box40{
     display: flex;
     justify-content: start;
-    margin-left: 185px;
+    margin-left: 145px;
     margin-top: 16%;
 }
 .a{
     display: flex;
     justify-content: start;
-    margin-left: 185px;
+    margin-left: 145px;
     margin-top: 2%;
 }
 .b{
     display: flex;
     justify-content: start;
-    margin-left: 185px;
+    margin-left: 145px;
     margin-top: 2%;
 }
 .box41{
     display: flex;
     justify-content: center;
     margin-top: -41%;
-    margin-left: -200px;
+    margin-left: -260px;
 }
 .finger1{
     display: flex;
     justify-content: center;
     margin-top: 2%;
-    margin-left: -900px;
+    margin-left: -970px;
 }
 .finger2{
     display: flex;
     justify-content: center;
     margin-top: -12%;
-    margin-left: -180px;
+    margin-left: -270px;
 }
 .finger3{
     display: flex;
     justify-content: center;
     margin-top: -11%;
-    margin-left: 520px;
+    margin-left: 430px;
 }
 .text12{
     font-size: 210px;
@@ -697,20 +699,20 @@ body{
     display: flex;
     justify-content: center;
     margin-top: -12.5%;
-    margin-left: -520px;
+    margin-left: -590px;
 }
 .box43{
     display: flex;
     justify-content: center;
     margin-top: -14.5%;
-    margin-left: 170px;
+    margin-left: 110px;
 }
 .box44{
     display: flex;
     justify-content: center;
     gap: 64px;
     margin-top: 0%;
-    margin-left: -205px;
+    margin-left: -280px;
 }
 .text13{
     font-size: 23px;
@@ -719,85 +721,85 @@ body{
     display: flex;
     justify-content: center;
     margin-top: 3.5%;
-    margin-left: -200px;
+    margin-left: -270px;
 }
 .box46{
     display: flex;
     justify-content: center;
     gap: 64px;
     margin-top: 15%;
-    margin-left: -200px;
+    margin-left: -280px;
 }
 .finger4{
     display: flex;
     justify-content: center;
     margin-top: -14.5%;
-    margin-left: -900px;
+    margin-left: -970px;
 }
 .finger5{
     display: flex;
     justify-content: center;
     margin-top: -11%;
-    margin-left: -530px;
+    margin-left: -620px;
 }
 .finger6{
     display: flex;
     justify-content: center;
     margin-top: -11.5%;
-    margin-left: 160px;
+    margin-left: 80px;
 }
 .box47{
     display: flex;
     justify-content: center;
     margin-top: -12.5%;
-    margin-left: -160px;
+    margin-left: -245px;
 }
 .box48{
     display: flex;
     justify-content: center;
     margin-top: -14.5%;
-    margin-left: 520px;
+    margin-left: 460px;
 }
 .lyp{
     display: flex;
     justify-content: center;
     margin-top: -40%;
-    margin-left: -980px;
+    margin-left: -1020px;
     rotate: 121.89deg;
 }
 .lyp1{
     display: flex;
     justify-content: center;
     margin-top: 0%;
-    margin-left: -450px;
+    margin-left: -520px;
     rotate: -57.96deg;
 }
 .lyp2{
     display: flex;
     justify-content: center;
     margin-top: -20%;
-    margin-left: 250px;
+    margin-left: 170px;
     rotate: -175.77deg;
 }
 .lyp3{
     display: flex;
     justify-content: center;
     margin-top: 22%;
-    margin-left: -950px;
+    margin-left: -1010px;
     rotate: 36.84deg;
 }
 .lyp4{
     display: flex;
     justify-content: center;
-    margin-top: -17%;
-    margin-left: -90px;
+    margin-top: -18%;
+    margin-left: -180px;
     rotate: -36.54deg;
 }
 .lyp5{
     display: flex;
     justify-content: center;
-    margin-top: -14%;
-    margin-left: 550px;
+    margin-top: -13%;
+    margin-left: 480px;
     rotate: 122.78deg;
 }
 .note1{
@@ -805,40 +807,40 @@ body{
     justify-content: center;
     width: 700px;
     margin-top: -37%;
-    margin-left: 800px;
+    margin-left: 860px;
 }
 .note2{
     display: flex;
     justify-content: center;
     width: 500px;
     margin-top: 25%;
-    margin-left: 920px;
+    margin-left: 960px;
 }
 .box49{
     display: flex;
     justify-content: center;
     margin-top: -47.5%;
-    margin-left: 760px;
+    margin-left: 870px;
     rotate: -8.19deg;
 }
 .box50{
     display: flex;
     justify-content: center;
     margin-top: 35%;
-    margin-left: 865px;
+    margin-left: 960px;
     rotate: 7.03deg;
 }
 .box51{
     display: flex;
     justify-content: start;
-    margin-left: 185px;
+    margin-left: 145px;
     margin-top: 0%;
 }
 .rred{
     display: flex;
     justify-content: center;
     margin-top: 2%;
-    margin-left: -1000px;
+    margin-left: -1070px;
 }
 .text14{
     font-size: 238px;
@@ -847,43 +849,43 @@ body{
     display: flex;
     justify-content: center;
     margin-top: -14.1%;
-    margin-left: -870px;
+    margin-left: -940px;
 }
 .rred1{
     display: flex;
     justify-content: center;
     margin-top: -14.2%;
-    margin-left: -600px;
+    margin-left: -670px;
 }
 .letter4{
     display: flex;
     justify-content: center;
     margin-top: -14.2%;
-    margin-left: -470px;
+    margin-left: -540px;
 }
 .rred2{
     display: flex;
     justify-content: center;
     margin-top: -14.2%;
-    margin-left: -210px;
+    margin-left: -280px;
 }
 .letter5{
     display: flex;
     justify-content: center;
     margin-top: -14.2%;
-    margin-left: -80px;
+    margin-left: -150px;
 }
 .rred3{
     display: flex;
     justify-content: center;
     margin-top: -14.1%;
-    margin-left: 200px;
+    margin-left: 130px;
 }
 .letter6{
     display: flex;
     justify-content: center;
     margin-top: -14.1%;
-    margin-left: 320px;
+    margin-left: 250px;
 }
 .note3{
     display: flex;
@@ -895,135 +897,135 @@ body{
     display: flex;
     justify-content: center;
     margin-top: -12.5%;
-    margin-left: 890px;
+    margin-left: 870px;
     rotate: -8.06deg;
 }
 .box53{
     display: flex;
     justify-content: center;
     margin-top: -13.5%;
-    margin-left: -1050px;
+    margin-left: -1120px;
 }
 .box54{
     display: flex;
     justify-content: center;
     margin-top: -1.8%;
-    margin-left: -650px;
+    margin-left: -720px;
 }
 .box55{
     display: flex;
     justify-content: center;
     margin-top: -1.6%;
-    margin-left: -255px;
+    margin-left: -325px;
 }
 .box56{
     display: flex;
     justify-content: center;
     margin-top: -1.8%;
-    margin-left: 150px;
+    margin-left: 80px;
 }
 .box57{
     display: flex;
     justify-content: center;
     margin-top: 6%;
-    margin-left: -950px;
+    margin-left: -1010px;
 }
 .box58{
     display: flex;
     justify-content: center;
     margin-top: -1.7%;
-    margin-left: -530px;
+    margin-left: -600px;
 }
 .box59{
     display: flex;
     justify-content: center;
     margin-top: -1.7%;
-    margin-left: -140px;
+    margin-left: -210px;
 }
 .box60{
     display: flex;
     justify-content: center;
     margin-top: -1.7%;
-    margin-left: 270px;
+    margin-left: 200px;
 }
 .a1{
     display: flex;
     justify-content: center;
     margin-top: 6%;
-    margin-left: -820px;
+    margin-left: -890px;
 }
 .a2{
     display: flex;
     justify-content: center;
     margin-top: -17.5%;
-    margin-left: -220px;
+    margin-left: -290px;
 }
 .a3{
     display: flex;
     justify-content: center;
     margin-top: -16%;
-    margin-left: 330px;
+    margin-left: 260px;
 }
 .a4{
     display: flex;
     justify-content: center;
     margin-top: -15%;
-    margin-left: 880px;
+    margin-left: 810px;
 }
 .box61{
     display: flex;
     justify-content: center;
     margin-top: -11%;
-    margin-left: -1050px;
+    margin-left: -1120px;
 }
 .box62{
     display: flex;
     justify-content: center;
     margin-top: -0.5%;
-    margin-left: -450px;
+    margin-left: -520px;
 }
 .box63{
     display: flex;
     justify-content: center;
     margin-top: -1%;
-    margin-left: 125px;
+    margin-left: 55px;
 }
 .box64{
     display: flex;
     justify-content: center;
     margin-top: -1%;
-    margin-left: 710px;
+    margin-left: 640px;
 }
 .box65{
     display: flex;
     justify-content: center;
-    margin-top: 6.7%;
-    margin-left: -905px;
+    margin-top: 8%;
+    margin-left: -975px;
 }
 .box66{
     display: flex;
     justify-content: center;
-    margin-top: -1.3%;
-    margin-left: -310px;
+    margin-top: -1.7%;
+    margin-left: -400px;
 }
 .box67{
     display: flex;
     justify-content: center;
-    margin-top: -1.3%;
-    margin-left: 260px;
+    margin-top: -1.8%;
+    margin-left: 190px;
 }
 .box68{
     display: flex;
     justify-content: center;
     margin-top: -1.5%;
-    margin-left: 830px;
+    margin-left: 760px;
 }
 
 .box69{
     display: flex;
     justify-content: center;
     margin-top: 2.5%;
-    margin-left: -610px;
+    margin-left: -680px;
 }
 .note4{
     display: flex;
@@ -1035,7 +1037,7 @@ body{
     display: flex;
     justify-content: center;
     margin-top: -8.5%;
-    margin-left: 865px;
+    margin-left: 875px;
     rotate: 6.63deg;
 }
 .papka{
@@ -1069,20 +1071,20 @@ body{
     display: flex;
     justify-content: center;
     margin-top: -2%;
-    margin-left: -900px;
+    margin-left: -940px;
 }
 .group{
     display: flex;
     justify-content: center;
     margin-top: 3%;
-    margin-left: 120px;
+    margin-left: 100px;
 }
 .evidence1{
     display: flex;
     justify-content: center;
     width: 23%;
     margin-top: -33%;
-    margin-left: 70px;
+    margin-left: 50px;
 }
 .evidence1 img{
     width: 23%;
@@ -1092,7 +1094,7 @@ body{
     justify-content: center;
     width: 23%;
     margin-top: -7%;
-    margin-left: 270px;
+    margin-left: 250px;
 }
 .evidence2 img{
     width: 23%;
@@ -1102,7 +1104,7 @@ body{
     justify-content: center;
     width: 23%;
     margin-top: -6.6%;
-    margin-left: 475px;
+    margin-left: 455px;
 }
 .evidence3 img{
     width: 23%;
@@ -1112,7 +1114,7 @@ body{
     justify-content: center;
     width: 23%;
     margin-top: -6.6%;
-    margin-left: 670px;
+    margin-left: 650px;
 }
 .evidence4 img{
     width: 23%;
@@ -1122,7 +1124,7 @@ body{
     justify-content: center;
     width: 23%;
     margin-top: -6.2%;
-    margin-left: 875px;
+    margin-left: 855px;
 }
 .evidence5 img{
     width: 23%;
@@ -1132,7 +1134,7 @@ body{
     justify-content: center;
     width: 23%;
     margin-top: -7.1%;
-    margin-left: 1070px;
+    margin-left: 1060px;
 }
 .evidence6 img{
     width: 23%;
@@ -1142,7 +1144,7 @@ body{
     justify-content: center;
     width: 23%;
     margin-top: 10%;
-    margin-left: 70px;
+    margin-left: 50px;
 }
 .evidence7 img{
     width: 23%;
@@ -1152,7 +1154,7 @@ body{
     justify-content: center;
     width: 23%;
     margin-top: -6.2%;
-    margin-left: 270px;
+    margin-left: 250px;
 }
 .evidence8 img{
     width: 23%;
@@ -1162,7 +1164,7 @@ body{
     justify-content: center;
     width: 23%;
     margin-top: -7%;
-    margin-left: 475px;
+    margin-left: 455px;
 }
 .evidence9 img{
     width: 23%;
@@ -1172,7 +1174,7 @@ body{
     justify-content: center;
     width: 23%;
     margin-top: -7%;
-    margin-left: 670px;
+    margin-left: 650px;
 }
 .evidence10 img{
     width: 23%;
@@ -1182,7 +1184,7 @@ body{
     justify-content: center;
     width: 23%;
     margin-top: -7%;
-    margin-left: 870px;
+    margin-left: 850px;
 }
 .evidence11 img{
     width: 23%;
@@ -1192,7 +1194,7 @@ body{
     justify-content: center;
     width: 23%;
     margin-top: -7%;
-    margin-left: 1070px;
+    margin-left: 1050px;
 }
 .evidence12 img{
     width: 23%;
@@ -1321,7 +1323,7 @@ body{
     display: flex;
     justify-content: center;
     margin-top: 6%;
-    margin-left: -920px;
+    margin-left: -940px;
 }
 
 .car{
@@ -1380,7 +1382,7 @@ body{
     display: flex;
     justify-content: center;
     margin-top: 13%;
-    margin-left: -820px;
+    margin-left: -850px;
 }
 
 .line{
@@ -1465,21 +1467,21 @@ body{
     display: flex;
     justify-content: center;
     line-height: 78px;
-    margin-top: -10%;
-    margin-left: 880px;
+    margin-top: -12%;
+    margin-left: 840px;
     rotate: -2.69deg;
     line-height: 35px;
 }
 .box83{
     display: flex;
     justify-content: center;
-    margin-top: 9%;
+    margin-top: 10%;
     margin-left: 770px;
 }
 .box84{
     display: flex;
     justify-content: start;
-    margin-left: 185px;
+    margin-left: 145px;
     margin-top: -27%;
 }
 .text21{
@@ -1488,6 +1490,6 @@ body{
 .box85{
     display: flex;
     justify-content: start;
-    margin-left: 185px;
+    margin-left: 145px;
     margin-top: -16%;
 }
