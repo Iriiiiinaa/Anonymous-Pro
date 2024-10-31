@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(255, 255, 255);
+    background-color: #ffffff;
     width: 100%; 
     overflow-x: hidden;
 }
@@ -1587,14 +1587,14 @@ body{
 .box83{
     display: flex;
     justify-content: center;
-    margin-top: 10%;
+    margin-top: 9%;
     margin-left: 770px;
 }
 .box84{
     display: flex;
     justify-content: start;
     margin-left: 185px;
-    margin-top: -25%;
+    margin-top: -24%;
 }
 .text21{
     font-size: 60px;
@@ -1603,5 +1603,5 @@ body{
     display: flex;
     justify-content: start;
     margin-left: 185px;
-    margin-top: -13%;
+    margin-top: -12%;
 }
